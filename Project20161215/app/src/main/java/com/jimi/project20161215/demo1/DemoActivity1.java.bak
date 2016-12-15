@@ -31,7 +31,7 @@ import retrofit2.Retrofit;
  */
 public class DemoActivity1 extends Activity {
 
-    private static final String API_URL = "http://n1.glh.la/apps_V9.4/";
+    private static final String API_URL = "http://n1.jimi.la/apps_V9.4/";
 
 
     @Bind(R.id.tv_show)

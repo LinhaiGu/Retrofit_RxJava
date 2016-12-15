@@ -33,7 +33,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  * Created by glh on 2016-12-15.
  */
 public class DemoActivity2 extends Activity {
-    private static final String API_URL = "http://n1.jimi.la/apps_V9.4/";
+    private static final String API_URL = "http://n1.glh.la/apps_V9.4/";
 
 
     @Bind(R.id.tv_show)
